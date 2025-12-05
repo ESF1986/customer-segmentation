@@ -1,2 +1,15 @@
-# customer-segmentation
-Data‑driven customer segmentation project using K-Means clustering and PCA for dimensionality reduction. The project includes data preprocessing, feature engineering, elbow-method analysis, cluster visualization, and insights for marketing strategy optimization. Built as an end‑to‑end machine learning workflow suitable for deployment or business 
+
+# Customer Segmentation Project
+
+A full K-Means clustering project with PCA visualization.
+
+## Files
+- customers.csv
+- customer_segmentation.py
+- elbow.png (generated at runtime)
+- clusters.png (generated at runtime)
+
+## How to run
+```
+python customer_segmentation.py
+```
